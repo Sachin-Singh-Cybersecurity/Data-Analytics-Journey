@@ -1,4 +1,4 @@
--- Day 2 SQL Practice File
+-- Level 2 SQL Practice File
 -- Beginner Data Analyst SQL Fundamentals
 
 -- =====================================
@@ -162,7 +162,7 @@ LIMIT 1;
 
 
 -- =====================================
--- END OF DAY 2 SQL PRACTICE
+-- END OF Level 2 SQL PRACTICE
 -- =====================================
 
 -- Concepts Learned:
