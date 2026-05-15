@@ -1,31 +1,42 @@
-# Sales Dashboard Analysis
+# Data Analytics Journey
 
-## Project Overview
-This project analyzes sales, profit, discounts, and regional performance using Excel dashboards and pivot tables.
+## Overview
+
+This repository contains my complete Data Analytics learning journey including Excel, SQL, Power BI, Python, pandas, and real-world business analysis projects.
+
+## Skills Covered
+
+* Excel Dashboarding
+* SQL Fundamentals
+* Intermediate SQL
+* Power BI
+* Python
+* pandas
+* Data Visualization
+* Exploratory Data Analysis
+* Business Insights
+
+## Projects
+
+|Day|Project|
+|-|-|
+|Level 1|Excel Sales Dashboard|
+|Level 2|SQL Fundamentals|
+|Level 3|Intermediate SQL|
+|Level 4|Power BI Dashboard|
+|Level 5|Python + pandas|
+|Level 6|E-Commerce Business Analysis|
 
 ## Tools Used
-- Microsoft Excel
-- Pivot Tables
-- Charts
-- Data Analysis
 
-## Key Insights
-- Technology category generated highest profit
-- Central region showed weakest profitability
-- Higher discounts were associated with lower profits
-- Profit margins were significantly lower than total sales
-- Opportunities exist to optimize pricing and sales strategies
+* Excel
+* SQL
+* Power BI
+* Python
+* pandas
+* matplotlib
 
-## Skills Demonstrated
-- Data cleaning
-- Pivot table analysis
-- Dashboard creation
-- Business insight generation
-- Data visualization
+## Goal
 
-## Dashboard Components
-- KPI Cards
-- Region-wise Sales Analysis
-- Category Profit Analysis
-- Profit Trends
-- Business Recommendations
+Build internship-ready Data Analytics portfolio projects and strengthen analytical thinking.
+
