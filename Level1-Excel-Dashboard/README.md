@@ -29,3 +29,6 @@ This project analyzes sales, profit, discounts, and regional performance using E
 - Category Profit Analysis
 - Profit Trends
 - Business Recommendations
+---
+# Author
+## Sachin Singh Tanwar
