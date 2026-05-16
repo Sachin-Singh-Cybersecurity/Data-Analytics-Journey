@@ -79,8 +79,8 @@ The objective was to analyze sales and profit trends across different business d
 
 # Files Included
 
-- `ecommerce_analysis.ipynb`
-- `day6_ecommerce_dataset.xlsx`
+- `Level6_Data Analyst_ecommerce_analysis.ipynb`
+- `Level6_ecommerce_dataset.csv`
 - `charts/`
 - `README.md`
 
