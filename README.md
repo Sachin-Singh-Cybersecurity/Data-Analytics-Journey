@@ -18,7 +18,7 @@ This repository contains my complete Data Analytics learning journey including E
 
 ## Projects
 
-|Day|Project|
+|Level|Project|
 |-|-|
 |Level 1|Excel Sales Dashboard|
 |Level 2|SQL Fundamentals|
