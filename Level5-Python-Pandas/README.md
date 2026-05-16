@@ -73,10 +73,11 @@ df[df["Profit"] < 0]
 - Grouped Analysis
 - Business Insight Generation
 - Analytical Thinking
+  
 # Files Included
-- `analysis.ipynb`
-- `Level5_python_pandas.py`
-- `SampleSuperstore.csv`
+- `Level5_Data Analyst_analysis.ipynb`
+- `Level5_Data Analyst_Python.ipynb`
+- `Dataset_SampleSuperstore.csv`
 - `README.md`
 
 # Future Improvements
